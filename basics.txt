@@ -1,0 +1,6 @@
+basic commands 
+ls
+cat
+echo
+touch
+mkdir
